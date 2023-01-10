@@ -1,10 +1,8 @@
-# 🚨 Don't change the code below 👇
+#I could have used Lowecase() and count()...but this the code without it...;)
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
-# 🚨 Don't change the code above 👆
 
-#Write your code below this line 👇
 
 True_1 =0
 True_2 =0
